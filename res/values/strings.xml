@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Offi</string>
+
+    <string name="add_offi">Add OFFI</string>
+
+    <string name="app_description">Work Log Application</string>
+
+</resources>
